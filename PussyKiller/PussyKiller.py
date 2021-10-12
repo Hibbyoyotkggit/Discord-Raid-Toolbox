@@ -1,6 +1,6 @@
 # Made by Lososik | https://github.com/Lososiik | https://dsc.gg/deadd
-# You need to have tokens.txt at same folder, at tokens.txt put your own tokens.
-# You need to write to cmd: pip install discord, pip install pyautoui, pip install requests. With not it will code dont work
+# You need to have tokens.txt at same folder, at tokens.txt put your own tokens. For token bruteforcer you need to create .txt file named grab.txt
+# You need to write to cmd: pip install discord, pip install pyautoui, pip install requests. Without it, the code will not work.
 # © PussyKiller discord multi tool
 
 import threading
@@ -792,6 +792,7 @@ Do not do this without the permission of the person to whom the bruteforce attac
         print('''Wassup buddy. This is fun made tool by Lososik...      
 If you have got some problems join https://dsc.gg/deadd or contact Lososik#0954.
 Enjoy Raiding and Nuking :D
+Special thanks to H0LLOW for helping me with a few things.
 ''')
 
 
