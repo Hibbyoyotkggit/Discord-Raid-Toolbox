@@ -133,7 +133,7 @@ def spammer():
 ─────────────╚══╝─────────────────────────────────────────╚╝ ''')
 
 
-        user = input("User (example nehehe#9999): ")
+        user = input("Username + Tag: ")
         tokens = open("tokens.txt", "r").read().splitlines()
         delay = float(input('Delay: '))
         for token in tokens:
